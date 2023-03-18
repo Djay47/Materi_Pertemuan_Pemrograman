@@ -1,0 +1,7 @@
+database: dbteman
+nama tabel: tblteman
+
+id int primary key auto_increment
+nama varchar (100)
+alamat varchar (100)
+asalsekolah varchar (100)

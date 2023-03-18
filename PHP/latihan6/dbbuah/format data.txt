@@ -1,0 +1,8 @@
+database: dbbuah
+nama table: tblbuah
+
+id int primary key auto_increment
+nama varchar (100)
+deskripsi varchar (100)
+harga varchar (100)
+gambar varvhar (100)
